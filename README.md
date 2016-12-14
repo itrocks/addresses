@@ -1,0 +1,1 @@
+The Addresses example application for the it.rocks PHP framework.
