@@ -1,0 +1,17 @@
+{
+	"authors":     [{ "name": "Baptiste Pillot",  "email": "baptiste@itrocks.org" }],
+	"description": "Description of the addresses project",
+	"extra": {
+		"installer-paths": { "{$vendor}/{$name}/": ["type:itrocks"] },
+		"installer-types": ["itrocks"]
+	},
+	"license":           "MIT",
+	"minimum-stability": "dev",
+	"name":              "itrocks/addresses",
+	"prefer-stable":     true,
+	"repositories":      [{ "type": "composer", "url": "https://packages.bappli.com" }],
+	"require": {
+		"itrocks/framework": "dev-master"
+	},
+	"type": "itrocks-final"
+}
