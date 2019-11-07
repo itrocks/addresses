@@ -1,9 +1,9 @@
 <?php
 namespace ITRocks\Addresses;
 
+use ITRocks\Framework\Component\Menu;
 use ITRocks\Framework\Configuration;
 use ITRocks\Framework\Plugin\Priority;
-use ITRocks\Framework\Widget\Menu;
 
 global $loc;
 require __DIR__ . '/../../loc.php';
