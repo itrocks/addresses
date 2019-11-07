@@ -9,7 +9,7 @@
 	"minimum-stability": "dev",
 	"name":              "itrocks/addresses",
 	"prefer-stable":     true,
-	"repositories":      [{ "type": "composer", "url": "https://packages.bappli.com" }],
+	"repositories":      [{ "type": "composer", "url": "https://hub.itrocks.org" }],
 	"require": {
 		"itrocks/framework": "dev-master"
 	},
